@@ -22,6 +22,6 @@ Only need the 7-Segment display on the demo board.
 
 ## PRISM
 
-PRISM is a programable finite state Machine.
+PRISM is a programable finite state Machine.  It consists of a Standard Cell Memory (large FLOP array).
 
 
